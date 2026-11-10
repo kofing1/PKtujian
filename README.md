@@ -1,6 +1,6 @@
 # PKtujian
 
-宝可梦大集结 · 图鉴（Pokémon UNITE 全宝可梦图鉴）
+
 
 在线预览：https://kofing1.github.io/PKtujian/
 
